@@ -20,4 +20,4 @@ Total population by continent (bar chart)
 
 Density vs growth rate (scatter plot)
 
-Heatmap of continent population growth (advanced visualization)
+Heatmap of continent population growth 
